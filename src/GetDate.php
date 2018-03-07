@@ -6,7 +6,7 @@
  * Time: 21:59
  */
 
-namespace pwdate;
+namespace PhpData;
 
 
 class GetDate
