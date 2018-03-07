@@ -1,5 +1,5 @@
 {
-  "name": "puweiyuer/php_date",
+  "name": "puweiyuer/php_data",
   "description": "Time plug-in",
   "keywords": ["yii-2.0", "date"],
   "license": "MIT",
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "pwdate": "src"
+      "pwdate\": "src"
     }
   }
 }
