@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-//      "puwei3402023\php_data\":"src"
+      "WeiApplication\\":"src/"
     }
   }
 }
